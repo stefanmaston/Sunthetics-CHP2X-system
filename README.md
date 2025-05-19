@@ -1,6 +1,6 @@
 # Sunthetics CHP2X Simulation
 
-An interactive Streamlit application for simulating and analyzing CHP2X (Combined Heat, Power, and X) projects, specifically focused on methanol production with revenue sharing financial model. The Suntehtics CHP2X system produce stored solar energy at beneficial LCOE level, and zero intemittency creating renewable energy with baseload capability similar to traditional energy sources. 
+An interactive Streamlit application for simulating and analyzing CHP2X (Combined Heat, Power, and X) projects, specifically focused on methanol production with revenue sharing financial model. The Sunthetics CHP2X system produce stored solar energy at beneficial LCOE level, and zero intemittency creating renewable energy with baseload capability similar to traditional energy sources. 
 
 ![Bild 2025-05-19 kl  16 43](https://github.com/user-attachments/assets/4a60a2f4-d160-4556-97a1-a3378cc5f840)
 
