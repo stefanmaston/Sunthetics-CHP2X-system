@@ -50,7 +50,7 @@ Run the application with:
 streamlit run Sunthetics_CHP2X_Simulation.py
 ```
 
-The application will be available at streamlit run Sunthetics_CHP2X_Simulation.py and at http://localhost:8501
+The application will be available at https://sunthetics-chp2x-system-uu6vehbpb7exha5wi2hg96.streamlit.app and at http://localhost:8501
 
 ## License
 
