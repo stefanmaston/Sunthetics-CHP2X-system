@@ -30,6 +30,9 @@ An interactive Streamlit application for simulating and analyzing CHP2X (Combine
 - Long-term analysis
 - Cash flow visualization
 
+![Bild 2025-05-19 kl  16 53](https://github.com/user-attachments/assets/0bbba158-1eae-400f-ab1b-9151725bf678)
+
+
 ## Requirements
 
 - Python 3.x
