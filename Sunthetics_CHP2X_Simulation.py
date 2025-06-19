@@ -19,9 +19,11 @@ selected_currency = st.selectbox("Select Currency", ['SEK', 'EUR', 'USD'])
 currency_rate = CURRENCY_RATES[selected_currency]
 currency_symbol = {'SEK': 'SEK', 'EUR': '€', 'USD': '$'}[selected_currency]
 
-# Helper function for currency conversion
-def format_currency(value):
-    return f"{value * currency_rate:,.2f} {currency_symbol}"
+# Helper function for currency formatting. Values in the app are already
+# provided in the selected currency so no further conversion is required here.
+def format_currency(value: float) -> str:
+    """Format a numeric value with the selected currency symbol."""
+    return f"{value:,.2f} {currency_symbol}"
 
 # Calculate minimum values based on currency
 min_capex = int(10000 * currency_rate)
