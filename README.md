@@ -4,7 +4,6 @@ An interactive Streamlit application for simulating and analyzing CHP2X (Combine
 
 ![Bild 2025-08-20 kl  16 31](https://github.com/user-attachments/assets/d0eaa50b-f00f-40a6-8800-5a2e4def4811)
 
-![Bild 2025-08-20 kl  16 18](https://github.com/user-attachments/assets/39c3a58f-d6f7-4d2f-a381-0bbb07abe08a)
 
 ## Features
 
@@ -21,6 +20,8 @@ An interactive Streamlit application for simulating and analyzing CHP2X (Combine
   - Annual price escalation
   - Build time
   - Discount rate
+
+![Bild 2025-08-20 kl  16 18](https://github.com/user-attachments/assets/39c3a58f-d6f7-4d2f-a381-0bbb07abe08a)
 
 ## Financial Analysis
 
